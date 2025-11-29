@@ -15,4 +15,4 @@ The repository is organized by courses:
   
 ---
 
-💡 *All materials are intended for personal learning and practice purposes.*
+💡 *All materials are here for fun and learning – feel free to explore!*
