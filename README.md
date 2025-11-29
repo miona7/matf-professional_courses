@@ -8,6 +8,10 @@ The purpose of this repository is to centralize all course-related work in one p
 
 ## 📂 Repository Structure
 
+The repository is organized by course, with each course having its own folder containing assignments, exercises, and templates for easy navigation.  
+
+---
+
 ## 📘 Course 1: Fundamentals of Software Testing
 
 - **Organized by:** Endava  
@@ -17,5 +21,3 @@ The purpose of this repository is to centralize all course-related work in one p
   - Homework assignments  
   - Test case templates  
   - Practice exercises  
-
----
