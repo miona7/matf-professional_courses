@@ -10,7 +10,7 @@ The goal of this repository is to centralize all course-related work in one plac
 
 The repository is organized by courses:
 
-- 💻 **Fundamentals of Software Testing** – Endava  
+- 💻 **ENDAVA - Fundamentals of Software Testing**   
   Exercises, assignments, and templates covering foundational concepts of software testing, including test case design, test execution, reporting, and the use of professional testing tools.
   
 ---
